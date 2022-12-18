@@ -9,5 +9,6 @@ os.system("sudo apt install tlp")
 os.system("sudo apt install cmatrix")
 os.system("sudo apt install caffeine")
 os.system("sudo apt install python3-pip")
+os.system("sudo apt install ffmpeg")
 os.system("sudo apt install update")
 
