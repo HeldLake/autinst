@@ -1,5 +1,7 @@
 # autinst
 
+Automate your software installs.
+
 A script with wich you can automate your software install on a freshly installed linux distro.
 
 You don't need to install git to get this process, just do this (tested on Linux Mint LMDE 5):
